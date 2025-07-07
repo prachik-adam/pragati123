@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: tenet00/testforactions:latest
+        tags: paggu0902/testforactions:latest
